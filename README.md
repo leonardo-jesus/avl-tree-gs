@@ -29,7 +29,7 @@ O Algoritmo de inserção utiliza **Python** e **Matplotlib**. O algoritmo cria 
 ## ✅ Requisitos Obrigatórios
 ✔️ Linguagem de programação:  a solução deve ser desenvolvida obrigatoriamente em Java ou Python. É proibida a utilização de bibliotecas ou frameworks externos, exceto para interfaces gráficas (GUI) ou desenvolvimento web básico. Qualquer outra exceção deve ser bem justificada na documentação;\
 ✔️ Orientação a Objetos: é obrigatório que o código respeite as boas práticas de programação orientada a objetos (OOP);\
-✔️ Estrutura de Dados: o sistema deve implementar as estruturas de dados adequadas que atendam aos requisitos de performance;;\
+✔️ Estrutura de Dados: o sistema deve implementar as estruturas de dados adequadas que atendam aos requisitos de performance;\
 ✔️ Interface com o Usuário: a solução pode ser demonstrada por meio de Prompt de comando;\
 ✔️ Performance: esses requisitos visam garantir que o sistema não apenas funcione corretamente, mas também o faça de maneira eficiente, mesmo sob alta carga de trabalho:\
         ✔️ 1.000 usuários;\
