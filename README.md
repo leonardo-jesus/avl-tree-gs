@@ -7,9 +7,10 @@
   <a href="#-requisitos-obrigatórios">Requisitos Obrigatórios</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-pontos-de-melhoria">Pontos de Melhoria</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-complexidade-do-algoritmo">Complexidade do Algoritmo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-rodar">Como rodar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-rodar">Como visualizar a documentação do pydoc</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licenca">Licença</a>
 </p>
@@ -81,7 +82,7 @@ Para rodar essa aplicação Python, você apenas irá precisar instalar Python e
 2. Abra o projeto no seu terminal;
 3. Rode `python AVLTree.py` para rodar o código
 
-## 📃 Como visualizar a documentação no terminal
+## 📃 Como visualizar a documentação do pydoc
 
 1. Faça o clone do projeto;
 2. Abra o projeto no seu terminal;
