@@ -86,7 +86,8 @@ Para rodar essa aplicação Python, você apenas irá precisar instalar Python e
 
 1. Faça o clone do projeto;
 2. Abra o projeto no seu terminal;
-3. Rode `-m pydoc AVLTree` ou abra o arquivo HTML para visualizar a documentação
+3. Rode `pip install matplotlib` para instalar a dependência necessária para visualização do gráfico;
+3. Rode `python -m pydoc AVLTree` ou abra o arquivo HTML para visualizar a documentação.
 
 ## 🤔 Como contribuir
 
