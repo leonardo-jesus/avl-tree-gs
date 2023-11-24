@@ -81,6 +81,12 @@ Para rodar essa aplicação Python, você apenas irá precisar instalar Python e
 2. Abra o projeto no seu terminal;
 3. Rode `python AVLTree.py` para rodar o código
 
+## 📃 Como visualizar a documentação no terminal
+
+1. Faça o clone do projeto;
+2. Abra o projeto no seu terminal;
+3. Rode `-m pydoc AVLTree` ou abra o arquivo HTML para visualizar a documentação
+
 ## 🤔 Como contribuir
 
 - Faça um fork;
