@@ -68,6 +68,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [**Python**](https://www.python.org/)
 - [**Matplotlib**](https://matplotlib.org/)
 - [**timeit**](https://docs.python.org/3/library/timeit.html)
+- [**pydoc**](https://docs.python.org/3/library/pydoc.html)
 
 ## 🔧 Requisitos
 Para rodar essa aplicação Python, você apenas irá precisar instalar Python em seu computador.
